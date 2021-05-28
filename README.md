@@ -3,7 +3,7 @@ Personal web-site at University of Leipzig
 
 [click here the web-site](https://home.uni-leipzig.de/pablosaa)
 
-This is a compiste between my github web-pages and twitter feed hosted at the university server.
+This is a composite site between my github web-pages and a html including my twitter feed to be hosted by the university server.
 
 
 --<br>
